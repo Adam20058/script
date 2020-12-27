@@ -22,7 +22,7 @@ Lets you put a collection of commands into a file
 
 # Highlights
 
-This collection of micro projects highlight the following fundamentals in C programming language (not in any order):
+This collection of micro projects highlight the following fundamentals in topics covered in class and outside material I found (not in any order):
 
 1. Essential Linux Commands
 2. Shell Variables/ Environment Variables
